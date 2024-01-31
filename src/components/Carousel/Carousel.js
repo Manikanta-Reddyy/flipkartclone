@@ -7,17 +7,17 @@ function Carousel() {
   const data = [
     {
       id: 1,
-      image: "https://m.media-amazon.com/images/I/81EZPF-FSdL._SX3000_.jpg",
+      image: "https://m.media-amazon.com/images/I/81EZPF-FSdL._SX3000_.jpg" alt="Description of the image",
       name: "Plants",
     },
     {
       id: 2,
-      image: "https://m.media-amazon.com/images/I/81OCE7mUqhL._SX3000_.jpg",
+      image: "https://m.media-amazon.com/images/I/81OCE7mUqhL._SX3000_.jpg" alt="Description of the image",
       name: "Headphones",
     },
     {
       id: 3,
-      image: "https://m.media-amazon.com/images/I/71JylaoMg+L._SX3000_.jpg",
+      image: "https://m.media-amazon.com/images/I/71JylaoMg+L._SX3000_.jpg" alt="Description of the image",
       name: "Mobile",
     },
   ];
